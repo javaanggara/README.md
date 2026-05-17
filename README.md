@@ -1,2 +1,5 @@
 # README.md
-Auditor C Program | OS/Kernel dev | Malware analyst on mobile   - 🔧 Daily driver: Termux + rizin -  Currently studying: Windows PE structure   -   Device: Vivo Y91c  2GB Ram
+[0x0001] Auditor C program.
+[0x0002] Kernel & OS Development.
+[0x0003] Exploit Development.
+[0xffff] C program is real Evil.
