@@ -7,4 +7,9 @@
 
 [0x0004] Indonesian / Age : 15 Years
 
-[0xffff] C program is real Evil.
+[0xffff] C/ASM program is real Evil.
+
+Awas SM Handler nya ada Callout
+SMM_BWP nya di LCKD dulu
+Awas Race Condition.
+Awas BIOS/UEFI nya kemasukan ingus BlackLotus.
